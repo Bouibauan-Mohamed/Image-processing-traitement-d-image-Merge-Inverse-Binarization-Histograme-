@@ -1,4 +1,5 @@
-# Image-processing-traitement-d-image-Merge-Inverse-Binarization-Histograme-
+# Image-processing-traitement-d-image-Merge-Inverse-Binarization-Histograme
+Go to trautement des images file 
 ## Fusionner deux imges /Merge Image:
 
 ![img2](https://github.com/Bouibauan-Mohamed/Image-processing-traitement-d-image-Merge-Inverse-Binarization-Histograme-/assets/102635115/9c94bc01-9f7f-4130-87ef-dcb35edefe1d)
